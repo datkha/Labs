@@ -1,2 +1,2 @@
 txt = "Hello World"
-txt = txt.upper()
+txt = txt.lower()
